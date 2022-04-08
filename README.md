@@ -1,1 +1,6 @@
-# mdd-analysis
+# Downregulated NPAS4 in multiple brain regions is associated with MDD
+
+## **Abstract**
+
+Major Depressive Disorder (MDD) is a commonly observed psychiatric disorder that affects more than 2% of the world population with a rising trend. However, disease-associated pathways and biomarkers are yet to be fully comprehended. In this study, we analyzed previously generated RNA-seq data across six different brain regions from three distinct studies to identify differentially and co-expressed genes for patients with MDD. Differential gene expression (DGE) analysis revealed that NPAS4 is the only gene that is downregulated in three different brain regions. Furthermore, we identified that co-expressing gene modules responsible for glutamatergic signaling are downregulated in these regions. We used the results of both DGE and co-expression analyses to construct a novel MDD associated pathway. In our model, we propose that disruption in glutamatergic signaling-related pathways might be associated with the downregulation of NPAS4 and many other immediate-early genes (IEGs) that control synaptic plasticity. Our results support the use of esketamine, an NMDA antagonist, for patients with treatment-resistant depression. In addition to DGE analysis, we identified the relative importance of MDD-associated pathways using a machine learning-based approach. We anticipate that our study will open doors to developing better therapeutic approaches targeting glutamatergic receptors in the treatment of MDD.  
+

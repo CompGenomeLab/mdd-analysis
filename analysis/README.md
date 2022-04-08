@@ -1,6 +1,6 @@
-# Downregulation in Glutamatergic Signaling Decreases Synaptic Plasticity through NPAS4 in Major Depression
+# Downregulated NPAS4 in multiple brain regions is associated with Major Depressive Disorder
 
-## Differential Gene Expression (DEG) Analysis
+## Differential Gene Expression (DGE) Analysis
 
 - Import sample table as data.frame
 
